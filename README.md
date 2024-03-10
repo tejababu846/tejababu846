@@ -44,9 +44,3 @@ I'm a software developer with a passion for creating high-quality, user-friendly
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tejababu846&show_icons=true&theme=tokyonight" />
 </p>
-
-## My Recent GitHub Activity
-
-<p align="center">
-  <img alt="GitHub Activity" src="https://github-readme-activity-graph.vercel.app/api?username=tejababu846&theme=tokyonight" />
-</p>
