@@ -35,9 +35,9 @@ I'm a software developer with a passion for creating high-quality, user-friendly
 
 ## My Projects
 
-- **[Project 1](https://github.com/tejababu846/E-Commerce-Next-Level):** A brief description of your project 1.
-- **[Project 2](https://github.com/tejababu846/Jobby-App):** A brief description of your project 2.
-- **[Project 3](https://github.com/tejababu846/Movie-App):** A brief description of your project 3.
+- **[Project 1](https://github.com/tejababu846/E-Commerce-Next-Level):** A E-Commerce Application..
+- **[Project 2](https://github.com/tejababu846/Jobby-App):** Jobby React Application.
+- **[Project 3](https://github.com/tejababu846/Movie-App):** Mern Based Movie Application.
 
 ## My GitHub Stats
 
