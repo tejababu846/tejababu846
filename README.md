@@ -3,22 +3,22 @@
 I'm a software developer with a passion for creating high-quality, user-friendly applications. I specialize in web development and have experience with various programming languages and frameworks.
 
 <p align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/tejababu846?tab=repositories">
     <img alt="GitHub Repositories" src="https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/tejababu846?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/tejababu846?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername?tab=stars">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/tejababu846?tab=stars">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/tejababu846?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername?tab=following">
-    <img alt="GitHub Following" src="https://img.shields.io/github/following/yourusername?label=Following&style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/tejababu846?tab=following">
+    <img alt="GitHub Following" src="https://img.shields.io/github/following/tejababu846?label=Following&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/tejababu846/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@example.com">
@@ -28,10 +28,10 @@ I'm a software developer with a passion for creating high-quality, user-friendly
 
 ## My Skills
 
-- **Programming Languages:** JavaScript, Python, Java, C++, PHP
-- **Web Development:** React, Angular, Vue.js, Node.js, Express, Laravel
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, Heroku
+- **Programming Languages:** JavaScript, Python
+- **Web Development:** React,bNode.js, Express
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Docker, AWS
 
 ## My Projects
 
