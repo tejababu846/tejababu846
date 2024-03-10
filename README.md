@@ -35,18 +35,18 @@ I'm a software developer with a passion for creating high-quality, user-friendly
 
 ## My Projects
 
-- **[Project 1](https://github.com/yourusername/project1):** A brief description of your project 1.
-- **[Project 2](https://github.com/yourusername/project2):** A brief description of your project 2.
-- **[Project 3](https://github.com/yourusername/project3):** A brief description of your project 3.
+- **[Project 1](https://github.com/tejababu846/E-Commerce-Next-Level):** A brief description of your project 1.
+- **[Project 2](https://github.com/tejababu846/Jobby-App):** A brief description of your project 2.
+- **[Project 3](https://github.com/tejababu846/Movie-App):** A brief description of your project 3.
 
 ## My GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tejababu846&show_icons=true&theme=tokyonight" />
 </p>
 
 ## My Recent GitHub Activity
 
 <p align="center">
-  <img alt="GitHub Activity" src="https://github-readme-activity-graph.vercel.app/api?username=yourusername&theme=tokyonight" />
+  <img alt="GitHub Activity" src="https://github-readme-activity-graph.vercel.app/api?username=tejababu846&theme=tokyonight" />
 </p>
