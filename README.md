@@ -1,12 +1,4 @@
 # Hi, I'm [Teja Gulagani](https://github.com/tejababu846) 👋
-![Profile Background Video](https://videos.pexels.com/video-files/1409899/1409899-sd_640_360_25fps.gif)
-
-
-
-
-
-
-
 
 I'm a software developer with a passion for creating high-quality, user-friendly applications. I specialize in web development and have experience with various programming languages and frameworks.
 
