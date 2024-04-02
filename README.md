@@ -1,5 +1,8 @@
 # Hi, I'm [Teja Gulagani](https://github.com/tejababu846) 👋
-<img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;">  <img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;">   <img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;"> <img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;"> <img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;"> <img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;"> <img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;"> <img src="https://res.cloudinary.com/dhzqndogf/image/upload/v1709145627/Untitled_on7pr2.jpg" alt="Profile Image" width="100" style="border-radius: 50%; object-fit: cover;"> 
+[![Click to play video](https://your-image-url.com/preview-image.png)](https://videos.pexels.com/video-files/1409899/1409899-sd_640_360_25fps.mp4)
+
+
+
 
 
 
